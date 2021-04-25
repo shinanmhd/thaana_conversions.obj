@@ -1,0 +1,19 @@
+{
+    "name": "thaana/converter",
+    "description": "thaana conversation object",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shinan",
+            "email": "shinaan@viewtual.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Thaana\\Converter\\": "src/"
+        }
+    },
+    "require": {}
+}
